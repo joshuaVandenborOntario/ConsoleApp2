@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            int testvariable = 0
+            int testvariable = 0;
             Console.WriteLine("Hello World");
 
             if(1 == 2)
