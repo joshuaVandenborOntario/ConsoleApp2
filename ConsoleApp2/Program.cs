@@ -11,6 +11,11 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
+            if(1 == 2)
+            {
+                Console.WriteLine("This is impossible");
+            }
         }
 
         public String returnString()
