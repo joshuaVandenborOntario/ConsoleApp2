@@ -1,13 +1,13 @@
-™
-8C:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Program.cs
+ù
++C:\repos\ConsoleApp2\ConsoleApp2\Program.cs
  
  
  
  
  
  			 
-		 		      +     ≤
-HC:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
+		 		      +     •
+;C:\repos\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
  
  
  

@@ -1,5 +1,5 @@
-Á
-8C:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Program.cs
+´
++C:\repos\ConsoleApp2\ConsoleApp2\Program.cs
 	namespace 	
 ConsoleApp2
  
@@ -40,8 +40,8 @@
 ;  !
 } 	
 } 
-} ó
-HC:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
+} æ
+;C:\repos\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
 [ 
 assembly 	
 :	 

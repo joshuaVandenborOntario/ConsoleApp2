@@ -1,5 +1,5 @@
-j
-8C:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Program.cs
+]
++C:\repos\ConsoleApp2\ConsoleApp2\Program.cs
 
 		 
 
@@ -7,5 +7,5 @@ j
 
 " &
 
- "J
-HC:\repos\ConsoleAppVS\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs
+ "=
+;C:\repos\ConsoleApp2\ConsoleApp2\Properties\AssemblyInfo.cs

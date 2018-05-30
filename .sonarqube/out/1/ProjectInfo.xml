@@ -4,10 +4,10 @@
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
   <ProjectGuid>d14f7d43-ce7d-4740-a66a-09de30a4a4d8</ProjectGuid>
-  <FullPath>C:\repos\ConsoleAppVS\ConsoleApp2\UnitTestProject1\UnitTestProject1.csproj</FullPath>
+  <FullPath>C:\repos\ConsoleApp2\UnitTestProject1\UnitTestProject1.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="C:\repos\ConsoleAppVS\ConsoleApp2\.sonarqube\out\1\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\repos\ConsoleApp2\.sonarqube\out\1\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings />
   <Configuration>Debug</Configuration>
