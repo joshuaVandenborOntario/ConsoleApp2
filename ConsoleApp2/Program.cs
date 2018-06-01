@@ -22,6 +22,8 @@ namespace ConsoleApp2
             {
                 testvariable = +1;
             }
+
+            Console.ReadLine();
         }
 
         public String returnString()
