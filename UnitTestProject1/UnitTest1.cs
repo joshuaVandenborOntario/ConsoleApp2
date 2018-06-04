@@ -20,7 +20,7 @@ namespace UnitTestProject1
         {
             ConsoleApp2.Program app = new ConsoleApp2.Program();
             String message = app.returnString();
-            Assert.AreEqual("Hello", message);
+            Assert.AreEqual("Hello world", message);
         }
 
         [TestCategory("Nightly"), TestMethod()]
