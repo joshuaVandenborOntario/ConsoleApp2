@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 //Change 2
 namespace UnitTestProject1
-{
+{ 
     [TestClass]
     public class UnitTest1
     {
@@ -15,7 +15,7 @@ namespace UnitTestProject1
             Assert.AreEqual("Hello World", message);
         }
 
-        //made to fail
+        //made to fail!
         [TestMethod()]
         public void TestMethod2()
         {
